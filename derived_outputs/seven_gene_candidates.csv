@@ -1,0 +1,8 @@
+Gene.symbol,In_GEO2R_DEGs,Probe_count,Representative_probe,logFC,adj.P.Val,P.Value,DEG_status,Direction_consistency,All_probe_IDs
+BAX,true,1,211833_s_at,1.05397594,1.67e-17,2.03e-19,Up,Up,211833_s_at
+BCL2,true,2,203685_at,-1.71633253,2.7900000000000003e-22,9.19e-25,Down,Down,203685_at|203684_s_at
+CDKN1A,true,1,202284_s_at,1.91614803,7.12e-16,1.23e-17,Up,Up,202284_s_at
+COL1A1,true,2,202311_s_at,1.85314193,3.92e-9,2.94e-10,Up,Up,202311_s_at|202310_s_at
+CXCL8,true,1,202859_x_at,2.00961337,2.22e-9,1.58e-10,Up,Up,202859_x_at
+FN1,true,7,212464_s_at,3.06847306,3.97e-25,4.07e-28,Up,Up,212464_s_at|216442_x_at|210495_x_at|211719_x_at|214701_s_at|214702_at|1558199_at
+TGFB1,true,1,203085_s_at,1.61510843,3.06e-15,6.24e-17,Up,Up,203085_s_at

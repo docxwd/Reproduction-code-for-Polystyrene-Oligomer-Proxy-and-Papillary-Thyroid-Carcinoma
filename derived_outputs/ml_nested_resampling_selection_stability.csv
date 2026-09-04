@@ -1,0 +1,8 @@
+"Gene","Published_LASSO_selected","Published_SVM_RFE_selected","Nested_LASSO_selection_count","Nested_LASSO_selection_frequency","Nested_SVM_RFE_selection_count","Nested_SVM_RFE_selection_frequency","Both_nested_frequencies_ge_0_50"
+"FN1",TRUE,TRUE,50,1,45,0.9,TRUE
+"BCL2",TRUE,TRUE,50,1,42,0.84,TRUE
+"BAX",TRUE,TRUE,49,0.98,44,0.88,TRUE
+"CDKN1A",FALSE,FALSE,33,0.66,11,0.22,FALSE
+"CXCL8",FALSE,TRUE,22,0.44,22,0.44,FALSE
+"TGFB1",FALSE,FALSE,21,0.42,17,0.34,FALSE
+"COL1A1",TRUE,FALSE,20,0.4,13,0.26,FALSE

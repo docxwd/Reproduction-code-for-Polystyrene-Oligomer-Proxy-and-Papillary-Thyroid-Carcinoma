@@ -1,0 +1,133 @@
+gene,tissue_type,analysis_scope,marker_based_cell_type,n_cells,pct_expressing,avg_log_expression,median_log_expression
+BAX,Lymph node metastasis,Metastatic_lesion,B_cells,17379,23.177,0.3743,0
+BAX,Lymph node metastasis,Metastatic_lesion,Dendritic_cells,2116,23.393,0.38707,0
+BAX,Lymph node metastasis,Metastatic_lesion,Endothelial_cells,2099,28.728,0.47456,0
+BAX,Lymph node metastasis,Metastatic_lesion,Fibroblasts,2971,42.545,0.55964,0
+BAX,Lymph node metastasis,Metastatic_lesion,Mast_cells,2877,38.06,0.52575,0
+BAX,Lymph node metastasis,Metastatic_lesion,Myeloid_cells,3217,66.211,0.84779,0.93287
+BAX,Lymph node metastasis,Metastatic_lesion,Pericyte_smooth_muscle,2572,26.089,0.49518,0
+BAX,Lymph node metastasis,Metastatic_lesion,Plasma_cells,1714,36.581,0.47275,0
+BAX,Lymph node metastasis,Metastatic_lesion,Proliferating_cells,3329,28.627,0.44114,0
+BAX,Lymph node metastasis,Metastatic_lesion,T_NK_cells,18874,26.984,0.46895,0
+BAX,Lymph node metastasis,Metastatic_lesion,Thyroid_epithelial,13101,62.537,0.71534,0.73815
+BAX,Subcutaneous metastasis,Metastatic_lesion,B_cells,269,42.007,0.66561,0
+BAX,Subcutaneous metastasis,Metastatic_lesion,Dendritic_cells,68,35.294,0.56637,0
+BAX,Subcutaneous metastasis,Metastatic_lesion,Endothelial_cells,69,50.725,0.83704,0.4578
+BAX,Subcutaneous metastasis,Metastatic_lesion,Fibroblasts,169,70.414,0.87312,0.89494
+BAX,Subcutaneous metastasis,Metastatic_lesion,Mast_cells,94,54.255,0.64797,0.66384
+BAX,Subcutaneous metastasis,Metastatic_lesion,Myeloid_cells,956,74.163,0.89517,0.96816
+BAX,Subcutaneous metastasis,Metastatic_lesion,Pericyte_smooth_muscle,74,75.676,0.98529,1.00958
+BAX,Subcutaneous metastasis,Metastatic_lesion,Plasma_cells,181,57.459,0.60106,0.47537
+BAX,Subcutaneous metastasis,Metastatic_lesion,Proliferating_cells,545,74.862,0.96362,0.956
+BAX,Subcutaneous metastasis,Metastatic_lesion,T_NK_cells,2749,50.673,0.88857,0.84563
+BAX,Subcutaneous metastasis,Metastatic_lesion,Thyroid_epithelial,4862,74.537,0.86713,0.84921
+BAX,Paratumor,Primary_vs_paratumor,B_cells,13915,28.078,0.46088,0
+BAX,Paratumor,Primary_vs_paratumor,Dendritic_cells,2601,23.299,0.35773,0
+BAX,Paratumor,Primary_vs_paratumor,Endothelial_cells,1998,12.062,0.20242,0
+BAX,Paratumor,Primary_vs_paratumor,Fibroblasts,240,17.5,0.24183,0
+BAX,Paratumor,Primary_vs_paratumor,Mast_cells,415,16.627,0.28067,0
+BAX,Paratumor,Primary_vs_paratumor,Myeloid_cells,1271,45.712,0.5965,0
+BAX,Paratumor,Primary_vs_paratumor,Pericyte_smooth_muscle,89,26.966,0.48377,0
+BAX,Paratumor,Primary_vs_paratumor,Plasma_cells,2549,32.64,0.49307,0
+BAX,Paratumor,Primary_vs_paratumor,Proliferating_cells,1399,26.733,0.40711,0
+BAX,Paratumor,Primary_vs_paratumor,T_NK_cells,19425,30.347,0.50683,0
+BAX,Paratumor,Primary_vs_paratumor,Thyroid_epithelial,6792,22.35,0.26553,0
+BAX,Primary tumor,Primary_vs_paratumor,B_cells,6209,27.106,0.48582,0
+BAX,Primary tumor,Primary_vs_paratumor,Dendritic_cells,1266,27.33,0.50688,0
+BAX,Primary tumor,Primary_vs_paratumor,Endothelial_cells,1887,23.476,0.39657,0
+BAX,Primary tumor,Primary_vs_paratumor,Fibroblasts,2147,24.266,0.43028,0
+BAX,Primary tumor,Primary_vs_paratumor,Mast_cells,334,24.85,0.38959,0
+BAX,Primary tumor,Primary_vs_paratumor,Myeloid_cells,11792,43.954,0.67014,0
+BAX,Primary tumor,Primary_vs_paratumor,Pericyte_smooth_muscle,2708,28.73,0.42441,0
+BAX,Primary tumor,Primary_vs_paratumor,Plasma_cells,4945,21.901,0.40585,0
+BAX,Primary tumor,Primary_vs_paratumor,Proliferating_cells,2364,36.971,0.65577,0
+BAX,Primary tumor,Primary_vs_paratumor,T_NK_cells,14657,32.237,0.59991,0
+BAX,Primary tumor,Primary_vs_paratumor,Thyroid_epithelial,17436,33.505,0.46308,0
+BCL2,Lymph node metastasis,Metastatic_lesion,B_cells,17379,9.627,0.14847,0
+BCL2,Lymph node metastasis,Metastatic_lesion,Dendritic_cells,2116,12.051,0.19854,0
+BCL2,Lymph node metastasis,Metastatic_lesion,Endothelial_cells,2099,2.668,0.0363,0
+BCL2,Lymph node metastasis,Metastatic_lesion,Fibroblasts,2971,4.645,0.04521,0
+BCL2,Lymph node metastasis,Metastatic_lesion,Mast_cells,2877,5.249,0.06963,0
+BCL2,Lymph node metastasis,Metastatic_lesion,Myeloid_cells,3217,25.987,0.24013,0
+BCL2,Lymph node metastasis,Metastatic_lesion,Pericyte_smooth_muscle,2572,2.411,0.03774,0
+BCL2,Lymph node metastasis,Metastatic_lesion,Plasma_cells,1714,7.41,0.09085,0
+BCL2,Lymph node metastasis,Metastatic_lesion,Proliferating_cells,3329,9.312,0.12044,0
+BCL2,Lymph node metastasis,Metastatic_lesion,T_NK_cells,18874,11.487,0.18828,0
+BCL2,Lymph node metastasis,Metastatic_lesion,Thyroid_epithelial,13101,14.228,0.10814,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,B_cells,269,17.1,0.27901,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,Dendritic_cells,68,14.706,0.23406,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,Endothelial_cells,69,4.348,0.05456,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,Fibroblasts,169,10.059,0.09811,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,Mast_cells,94,5.319,0.07498,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,Myeloid_cells,956,12.971,0.08319,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,Pericyte_smooth_muscle,74,5.405,0.06125,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,Plasma_cells,181,6.63,0.06357,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,Proliferating_cells,545,9.358,0.07433,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,T_NK_cells,2749,13.569,0.2156,0
+BCL2,Subcutaneous metastasis,Metastatic_lesion,Thyroid_epithelial,4862,5.923,0.03918,0
+BCL2,Paratumor,Primary_vs_paratumor,B_cells,13915,15.702,0.25131,0
+BCL2,Paratumor,Primary_vs_paratumor,Dendritic_cells,2601,21.684,0.3716,0
+BCL2,Paratumor,Primary_vs_paratumor,Endothelial_cells,1998,6.957,0.11941,0
+BCL2,Paratumor,Primary_vs_paratumor,Fibroblasts,240,7.5,0.111,0
+BCL2,Paratumor,Primary_vs_paratumor,Mast_cells,415,15.181,0.26369,0
+BCL2,Paratumor,Primary_vs_paratumor,Myeloid_cells,1271,20.614,0.25663,0
+BCL2,Paratumor,Primary_vs_paratumor,Pericyte_smooth_muscle,89,15.73,0.25087,0
+BCL2,Paratumor,Primary_vs_paratumor,Plasma_cells,2549,13.142,0.1826,0
+BCL2,Paratumor,Primary_vs_paratumor,Proliferating_cells,1399,12.366,0.19134,0
+BCL2,Paratumor,Primary_vs_paratumor,T_NK_cells,19425,17.951,0.29518,0
+BCL2,Paratumor,Primary_vs_paratumor,Thyroid_epithelial,6792,36.145,0.48852,0
+BCL2,Primary tumor,Primary_vs_paratumor,B_cells,6209,12.095,0.21279,0
+BCL2,Primary tumor,Primary_vs_paratumor,Dendritic_cells,1266,16.509,0.29998,0
+BCL2,Primary tumor,Primary_vs_paratumor,Endothelial_cells,1887,4.134,0.06563,0
+BCL2,Primary tumor,Primary_vs_paratumor,Fibroblasts,2147,4.192,0.08137,0
+BCL2,Primary tumor,Primary_vs_paratumor,Mast_cells,334,9.581,0.15085,0
+BCL2,Primary tumor,Primary_vs_paratumor,Myeloid_cells,11792,18.258,0.24366,0
+BCL2,Primary tumor,Primary_vs_paratumor,Pericyte_smooth_muscle,2708,4.874,0.06525,0
+BCL2,Primary tumor,Primary_vs_paratumor,Plasma_cells,4945,7.664,0.13803,0
+BCL2,Primary tumor,Primary_vs_paratumor,Proliferating_cells,2364,14.763,0.22318,0
+BCL2,Primary tumor,Primary_vs_paratumor,T_NK_cells,14657,16.777,0.29326,0
+BCL2,Primary tumor,Primary_vs_paratumor,Thyroid_epithelial,17436,8.66,0.11205,0
+FN1,Lymph node metastasis,Metastatic_lesion,B_cells,17379,3.435,0.06246,0
+FN1,Lymph node metastasis,Metastatic_lesion,Dendritic_cells,2116,3.639,0.06592,0
+FN1,Lymph node metastasis,Metastatic_lesion,Endothelial_cells,2099,49.786,1.1668,0
+FN1,Lymph node metastasis,Metastatic_lesion,Fibroblasts,2971,82.497,2.08526,2.29061
+FN1,Lymph node metastasis,Metastatic_lesion,Mast_cells,2877,46.472,0.94018,0
+FN1,Lymph node metastasis,Metastatic_lesion,Myeloid_cells,3217,36.183,0.57193,0
+FN1,Lymph node metastasis,Metastatic_lesion,Pericyte_smooth_muscle,2572,62.869,1.68228,2.11585
+FN1,Lymph node metastasis,Metastatic_lesion,Plasma_cells,1714,14.002,0.21467,0
+FN1,Lymph node metastasis,Metastatic_lesion,Proliferating_cells,3329,12.316,0.28574,0
+FN1,Lymph node metastasis,Metastatic_lesion,T_NK_cells,18874,3.211,0.05414,0
+FN1,Lymph node metastasis,Metastatic_lesion,Thyroid_epithelial,13101,82.207,2.63732,2.97547
+FN1,Subcutaneous metastasis,Metastatic_lesion,B_cells,269,28.253,0.70381,0
+FN1,Subcutaneous metastasis,Metastatic_lesion,Dendritic_cells,68,22.059,0.34304,0
+FN1,Subcutaneous metastasis,Metastatic_lesion,Endothelial_cells,69,72.464,1.61742,1.71984
+FN1,Subcutaneous metastasis,Metastatic_lesion,Fibroblasts,169,92.899,2.94406,3.04167
+FN1,Subcutaneous metastasis,Metastatic_lesion,Mast_cells,94,73.404,2.16265,2.63957
+FN1,Subcutaneous metastasis,Metastatic_lesion,Myeloid_cells,956,61.611,0.86184,0.61452
+FN1,Subcutaneous metastasis,Metastatic_lesion,Pericyte_smooth_muscle,74,93.243,3.00029,3.1948
+FN1,Subcutaneous metastasis,Metastatic_lesion,Plasma_cells,181,38.674,0.53574,0
+FN1,Subcutaneous metastasis,Metastatic_lesion,Proliferating_cells,545,79.266,2.49463,3.06334
+FN1,Subcutaneous metastasis,Metastatic_lesion,T_NK_cells,2749,19.352,0.30847,0
+FN1,Subcutaneous metastasis,Metastatic_lesion,Thyroid_epithelial,4862,99.527,3.68631,3.7103
+FN1,Paratumor,Primary_vs_paratumor,B_cells,13915,0.762,0.01254,0
+FN1,Paratumor,Primary_vs_paratumor,Dendritic_cells,2601,1.423,0.02469,0
+FN1,Paratumor,Primary_vs_paratumor,Endothelial_cells,1998,65.115,1.75549,2.09262
+FN1,Paratumor,Primary_vs_paratumor,Fibroblasts,240,65.833,1.93284,2.36205
+FN1,Paratumor,Primary_vs_paratumor,Mast_cells,415,7.229,0.14247,0
+FN1,Paratumor,Primary_vs_paratumor,Myeloid_cells,1271,34.225,0.6396,0
+FN1,Paratumor,Primary_vs_paratumor,Pericyte_smooth_muscle,89,8.989,0.18239,0
+FN1,Paratumor,Primary_vs_paratumor,Plasma_cells,2549,1.02,0.01498,0
+FN1,Paratumor,Primary_vs_paratumor,Proliferating_cells,1399,3.288,0.06604,0
+FN1,Paratumor,Primary_vs_paratumor,T_NK_cells,19425,1.004,0.01628,0
+FN1,Paratumor,Primary_vs_paratumor,Thyroid_epithelial,6792,13.104,0.25271,0
+FN1,Primary tumor,Primary_vs_paratumor,B_cells,6209,23.691,0.89262,0
+FN1,Primary tumor,Primary_vs_paratumor,Dendritic_cells,1266,35.466,1.26801,0
+FN1,Primary tumor,Primary_vs_paratumor,Endothelial_cells,1887,37.096,1.01475,0
+FN1,Primary tumor,Primary_vs_paratumor,Fibroblasts,2147,81.276,2.89373,3.20262
+FN1,Primary tumor,Primary_vs_paratumor,Mast_cells,334,58.982,1.90449,1.98141
+FN1,Primary tumor,Primary_vs_paratumor,Myeloid_cells,11792,45.853,1.35865,0
+FN1,Primary tumor,Primary_vs_paratumor,Pericyte_smooth_muscle,2708,51.883,1.14403,0.89846
+FN1,Primary tumor,Primary_vs_paratumor,Plasma_cells,4945,52.133,1.95832,2.05744
+FN1,Primary tumor,Primary_vs_paratumor,Proliferating_cells,2364,47.547,1.65694,0
+FN1,Primary tumor,Primary_vs_paratumor,T_NK_cells,14657,8.781,0.25119,0
+FN1,Primary tumor,Primary_vs_paratumor,Thyroid_epithelial,17436,91.345,3.35158,3.70866

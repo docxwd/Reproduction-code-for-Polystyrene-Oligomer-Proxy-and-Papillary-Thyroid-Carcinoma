@@ -1,0 +1,33 @@
+path	role	source_or_accession	notes
+data/processed/ml_resampling_plan.json	resampling input	GSE33630	Sample identifiers with 50 outer and 250 inner train/test partitions
+data/processed/discovery_7gene_expression.csv	processed input	GSE33630	7 genes by 94 samples; byte-preserved feature-selection matrix
+data/processed/external_core_expression.csv	processed input	GSE60542	External expression matrix used for individual-gene ROC
+data/processed/immune_core_expression.csv	processed input	GSE33630	Core genes after symbol grouping by mean; all 94 samples retained
+data/processed/core_genes_no_header.csv	input list	Study core genes	Headerless list for ROC scripts
+data/processed/candidate_7genes.txt	input list	Study candidate genes	Single-cell preparation and consistency checks
+data/processed/final_core_genes_BCL2_BAX_FN1.csv	input list	Study core genes	Headered list for single-cell preparation
+data/processed/target_source_membership_144.csv	processed input	CTD; TargetNet; SwissTargetPrediction	Source membership for the 144-target union
+data/processed/genecards_top3000.csv	processed input	GeneCards export	Rank, symbol, and relevance score only
+data/processed/thyroid_cancer_genes_2139.csv	processed input	GeneCards top 2,000 plus OMIM	Primary disease-gene union
+data/processed/shared_targets_75.csv	processed input	Target/disease intersection	Submitted shared-target list
+data/processed/target_sensitivity_summary.csv	reference output	Source and GeneCards sensitivities	Counts and retained candidates
+derived_outputs/submitted_75_PPI_nodes.csv	reference output	STRING	Submitted 75-node topology table
+derived_outputs/submitted_75_PPI_edges.csv	reference output	STRING	508 high-confidence functional associations
+derived_outputs/submitted_75_GO_results.txt	reference output	GO/clusterProfiler	1,899 BH-significant terms
+derived_outputs/submitted_75_KEGG_results.txt	reference output	KEGG/clusterProfiler	169 reported records; 166 BH-significant
+derived_outputs/GSE33630_DEG_probes.csv	reference output	GSE33630	Probe-level differential-expression results
+derived_outputs/GSE33630_DEG_gene_summary.csv	reference output	GSE33630	Gene-level differential-expression summary
+derived_outputs/seven_gene_candidates.csv	reference output	GSE33630	Seven shared differentially expressed candidates
+derived_outputs/ml_nested_resampling_performance.csv	reference output	GSE33630	Conditional repeated nested evaluation
+derived_outputs/ml_nested_resampling_selection_stability.csv	reference output	GSE33630	Feature selection frequencies
+derived_outputs/single_gene_ROC_results.csv	reference output	GSE33630; GSE60542	Individual-gene ROC results
+derived_outputs/cibersort_retained_samples.csv	reference output	GSE33630	42 samples retained by the stated output-P rule
+derived_outputs/immune_group_comparisons_with_BH_FDR.csv	reference output	GSE33630	22 estimated fractions with BH correction
+derived_outputs/gene_immune_correlations_full_and_tumor_only_with_BH_FDR.csv	reference output	GSE33630	66 planned pairs; pooled 66 estimable and PTC-only 63 estimable
+derived_outputs/single_cell_QC_summary.csv	reference output	GSE184362; GSE191288	Sample-level cell counts and QC summaries
+derived_outputs/single_cell_GSE184362_summary.csv	reference output	GSE184362	Descriptive cellular localization
+derived_outputs/single_cell_cross_dataset_summary.csv	reference output	GSE184362; GSE191288	Cross-dataset descriptive comparison
+data/processed/hpa_panel_provenance.csv	processed metadata	Human Protein Atlas	Patient and antibody provenance for displayed panels
+data/processed/ihc_patient_level_clinical_deidentified.csv	deidentified clinical data	Archived clinical specimens	15 Pair_ID-linked records
+data/processed/ihc_cohort_summary.csv	aggregate clinical data	Archived clinical specimens	Aggregate characteristics of the 15-pair cohort
+data/processed/ihc_hscore_deidentified.csv	deidentified experimental data	Clinical IHC	45 marker-pair rows

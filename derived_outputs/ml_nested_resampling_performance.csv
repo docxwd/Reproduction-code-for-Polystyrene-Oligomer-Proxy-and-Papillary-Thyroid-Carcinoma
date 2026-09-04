@@ -1,0 +1,3 @@
+"Method","Outer_split_count","Mean_outer_AUC","SD_outer_AUC","Median_outer_AUC","Min_outer_AUC","Max_outer_AUC","Evaluation_note"
+"L1 logistic regression",50,0.969950617283951,0.0418228300754724,1,0.888888888888889,1,"Conditional evaluation of a seven-gene panel selected before resampling; scaling, selection and tuning use outer training sets. Outer folds are dependent resamples."
+"Linear SVM-RFE",50,0.966123456790123,0.0426101416773806,0.988888888888889,0.877777777777778,1,"Conditional evaluation of a seven-gene panel selected before resampling; scaling, selection and tuning use outer training sets. Outer folds are dependent resamples."

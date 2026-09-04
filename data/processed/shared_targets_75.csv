@@ -1,0 +1,76 @@
+Gene,CTD_literature_curated,TargetNet_predicted,SwissTargetPrediction_predicted,Evidence_class,Source_pattern,Disease_source_pattern,GeneCards_rank,In_OMIM,PTC_DEG,Candidate7,Core_candidate_gene
+ACTA2,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",713,No,No,No,No
+AKT1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",45,No,No,No,No
+AREG,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1079,No,No,No,No
+BAX,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",141,No,Yes,Yes,Yes
+BCL2,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",123,No,Yes,Yes,Yes
+BECN1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",934,No,No,No,No
+CASP3,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",212,No,No,No,No
+CASP8,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",138,No,No,No,No
+CASP9,Yes,Yes,No,CTD-curated + predicted,CTD + TargetNet,"GeneCards top 2,000",516,No,No,No,No
+CASR,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",327,No,No,No,No
+CAT,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1875,No,No,No,No
+CCL2,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",378,No,No,No,No
+CDC25B,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",738,No,No,No,No
+CDH1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",15,No,No,No,No
+CDKN1A,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",147,No,Yes,Yes,No
+CDKN2A,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",32,No,No,No,No
+COL1A1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1001,No,Yes,Yes,No
+COL3A1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1122,No,No,No,No
+CXCL1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1224,No,No,No,No
+CXCL8,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",401,No,Yes,Yes,No
+CXCR2,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",1493,No,No,No,No
+CYCS,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",895,No,No,No,No
+CYP17A1,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",451,No,No,No,No
+CYP19A1,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",508,No,No,No,No
+CYP1A2,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",1305,No,No,No,No
+CYP2D6,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",1415,No,No,No,No
+DDIT3,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",981,No,No,No,No
+ESR1,No,No,Yes,Prediction-only,SwissTargetPrediction,"GeneCards top 2,000",70,No,No,No,No
+ESR2,No,No,Yes,Prediction-only,SwissTargetPrediction,"GeneCards top 2,000",239,No,No,No,No
+FADD,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",848,No,No,No,No
+FN1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",363,No,Yes,Yes,Yes
+GPT,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1734,No,No,No,No
+GPX1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1825,No,No,No,No
+GPX4,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1989,No,No,No,No
+H2AX,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",883,No,No,No,No
+HDAC4,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",925,No,No,No,No
+HIF1A,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",100,No,No,No,No
+HMOX1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1212,No,No,No,No
+ID1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",871,No,No,No,No
+IL10,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",278,No,No,No,No
+IL1A,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",749,No,No,No,No
+IL1B,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",189,No,No,No,No
+IL1R1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1578,No,No,No,No
+IL6,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",126,No,No,No,No
+KDM1A,No,No,Yes,Prediction-only,SwissTargetPrediction,"GeneCards top 2,000 + OMIM",681,Yes,No,No,No
+MAPK1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",176,No,No,No,No
+MAPK14,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",795,No,No,No,No
+MAPK3,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",472,No,No,No,No
+MAPK8,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1004,No,No,No,No
+MCL1,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",499,No,No,No,No
+MFN2,Yes,No,No,CTD-curated,CTD,OMIM,,Yes,No,No,No
+MKI67,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",407,No,No,No,No
+MMP2,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",220,No,No,No,No
+MTOR,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000 + OMIM",81,Yes,No,No,No
+MYC,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",84,No,No,No,No
+NFE2L2,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",223,No,No,No,No
+NFKB1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",322,No,No,No,No
+NOS3,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",1832,No,No,No,No
+PGR,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",438,No,No,No,No
+PIK3R1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",185,No,No,No,No
+PTGS1,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",1281,No,No,No,No
+PTGS2,Yes,No,Yes,CTD-curated + predicted,CTD + SwissTargetPrediction,"GeneCards top 2,000",205,No,No,No,No
+RELA,Yes,Yes,No,CTD-curated + predicted,CTD + TargetNet,"GeneCards top 2,000",460,No,No,No,No
+RIPK1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1034,No,No,No,No
+SGK1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1913,No,No,No,No
+SHBG,No,No,Yes,Prediction-only,SwissTargetPrediction,"GeneCards top 2,000",909,No,No,No,No
+SHH,No,No,Yes,Prediction-only,SwissTargetPrediction,"GeneCards top 2,000",392,No,No,No,No
+SOD1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1439,No,No,No,No
+SOD2,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",316,No,No,No,No
+SQSTM1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1023,No,No,No,No
+TGFB1,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",136,No,Yes,Yes,No
+TLR9,No,Yes,No,Prediction-only,TargetNet,"GeneCards top 2,000",1378,No,No,No,No
+TNF,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",217,No,No,No,No
+TNFAIP3,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",1025,No,No,No,No
+TP53,Yes,No,No,CTD-curated,CTD,"GeneCards top 2,000",4,No,No,No,No

@@ -1,0 +1,58 @@
+dataset,tissue_context,gene,cell_type,n_cells,pct_expressing,avg_log_expression,median_log_expression,rank_avg_expr,rank_pct_expr,rank_integrated
+GSE184362,Primary tumor,BAX,Myeloid_cells,11792,43.954,0.67014,0,1,1,1
+GSE184362,Primary tumor,BAX,Proliferating_cells,2364,36.971,0.65577,0,2,2,2
+GSE184362,Primary tumor,BAX,T_NK_cells,14657,32.237,0.59991,0,3,4,3.5
+GSE184362,Primary tumor,BAX,Thyroid_epithelial,17436,33.505,0.46308,0,6,3,4.5
+GSE184362,Primary tumor,BAX,Dendritic_cells,1266,27.33,0.50688,0,4,6,5
+GSE184362,Primary tumor,BAX,B_cells,6209,27.106,0.48582,0,5,7,6
+GSE184362,Primary tumor,BAX,Pericyte_smooth_muscle,2708,28.73,0.42441,0,8,5,6.5
+GSE184362,Primary tumor,BAX,Fibroblasts,2147,24.266,0.43028,0,7,9,8
+GSE184362,Primary tumor,BAX,Mast_cells,334,24.85,0.38959,0,11,8,9.5
+GSE184362,Primary tumor,BAX,Plasma_cells,4945,21.901,0.40585,0,9,11,10
+GSE184362,Primary tumor,BAX,Endothelial_cells,1887,23.476,0.39657,0,10,10,10
+GSE184362,Primary tumor,BCL2,Dendritic_cells,1266,16.509,0.29998,0,1,3,2
+GSE184362,Primary tumor,BCL2,T_NK_cells,14657,16.777,0.29326,0,2,2,2
+GSE184362,Primary tumor,BCL2,Myeloid_cells,11792,18.258,0.24366,0,3,1,2
+GSE184362,Primary tumor,BCL2,Proliferating_cells,2364,14.763,0.22318,0,4,4,4
+GSE184362,Primary tumor,BCL2,B_cells,6209,12.095,0.21279,0,5,5,5
+GSE184362,Primary tumor,BCL2,Mast_cells,334,9.581,0.15085,0,6,6,6
+GSE184362,Primary tumor,BCL2,Plasma_cells,4945,7.664,0.13803,0,7,8,7.5
+GSE184362,Primary tumor,BCL2,Thyroid_epithelial,17436,8.66,0.11205,0,8,7,7.5
+GSE184362,Primary tumor,BCL2,Fibroblasts,2147,4.192,0.08137,0,9,10,9.5
+GSE184362,Primary tumor,BCL2,Pericyte_smooth_muscle,2708,4.874,0.06525,0,11,9,10
+GSE184362,Primary tumor,BCL2,Endothelial_cells,1887,4.134,0.06563,0,10,11,10.5
+GSE184362,Primary tumor,FN1,Thyroid_epithelial,17436,91.345,3.35158,3.70866,1,1,1
+GSE184362,Primary tumor,FN1,Fibroblasts,2147,81.276,2.89373,3.20262,2,2,2
+GSE184362,Primary tumor,FN1,Plasma_cells,4945,52.133,1.95832,2.05744,3,4,3.5
+GSE184362,Primary tumor,FN1,Mast_cells,334,58.982,1.90449,1.98141,4,3,3.5
+GSE184362,Primary tumor,FN1,Proliferating_cells,2364,47.547,1.65694,0,5,6,5.5
+GSE184362,Primary tumor,FN1,Myeloid_cells,11792,45.853,1.35865,0,6,7,6.5
+GSE184362,Primary tumor,FN1,Pericyte_smooth_muscle,2708,51.883,1.14403,0.89846,8,5,6.5
+GSE184362,Primary tumor,FN1,Dendritic_cells,1266,35.466,1.26801,0,7,9,8
+GSE184362,Primary tumor,FN1,Endothelial_cells,1887,37.096,1.01475,0,9,8,8.5
+GSE184362,Primary tumor,FN1,B_cells,6209,23.691,0.89262,0,10,10,10
+GSE184362,Primary tumor,FN1,T_NK_cells,14657,8.781,0.25119,0,11,11,11
+GSE191288,PTC,BAX,Myeloid_cells,1618,68.48,0.74074,0.7437,1,2,1.5
+GSE191288,PTC,BAX,Thyroid_epithelial,10316,72.567,0.6181,0.63132,4,1,2.5
+GSE191288,PTC,BAX,B_cells,1182,64.636,0.68977,0.63316,3,3,3
+GSE191288,PTC,BAX,T_NK_cells,6574,50.259,0.69225,0.45558,2,6,4
+GSE191288,PTC,BAX,Pericyte_smooth_muscle,3059,51.782,0.57196,0.44281,5,4,4.5
+GSE191288,PTC,BAX,Endothelial_cells,2571,51.147,0.51571,0.32202,6,5,5.5
+GSE191288,PTC,BAX,Fibroblasts,608,45.395,0.42165,0,7,7,7
+GSE191288,PTC,BAX,Plasma_cells,530,9.245,0.06011,0,8,8,8
+GSE191288,PTC,BCL2,T_NK_cells,6574,61.333,1.09973,1.10431,1,1,1
+GSE191288,PTC,BCL2,B_cells,1182,48.477,0.65397,0,2,3,2.5
+GSE191288,PTC,BCL2,Myeloid_cells,1618,54.326,0.6368,0.35032,3,2,2.5
+GSE191288,PTC,BCL2,Pericyte_smooth_muscle,3059,36.646,0.40812,0,4,5,4.5
+GSE191288,PTC,BCL2,Thyroid_epithelial,10316,40.704,0.28323,0,5,4,4.5
+GSE191288,PTC,BCL2,Plasma_cells,530,23.774,0.26096,0,6,6,6
+GSE191288,PTC,BCL2,Endothelial_cells,2571,15.986,0.11532,0,7,8,7.5
+GSE191288,PTC,BCL2,Fibroblasts,608,16.941,0.1019,0,8,7,7.5
+GSE191288,PTC,FN1,Thyroid_epithelial,10316,94.416,2.79878,2.80611,1,1,1
+GSE191288,PTC,FN1,Fibroblasts,608,78.125,1.89691,1.96042,2,3,2.5
+GSE191288,PTC,FN1,Pericyte_smooth_muscle,3059,79.83,1.58385,1.61522,3,2,2.5
+GSE191288,PTC,FN1,Myeloid_cells,1618,57.108,0.88602,0.43033,4,4,4
+GSE191288,PTC,FN1,Endothelial_cells,2571,45.624,0.61642,0,5,5,5
+GSE191288,PTC,FN1,Plasma_cells,530,41.321,0.61564,0,6,6,6
+GSE191288,PTC,FN1,T_NK_cells,6574,31.655,0.39942,0,7,7,7
+GSE191288,PTC,FN1,B_cells,1182,29.272,0.3738,0,8,8,8

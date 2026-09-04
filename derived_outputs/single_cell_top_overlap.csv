@@ -1,0 +1,4 @@
+gene,GSE191288_top5,GSE184362_top5,shared_top_celltypes,n_shared_top_celltypes
+BAX,Myeloid_cells; Thyroid_epithelial; B_cells; T_NK_cells; Pericyte_smooth_muscle,Myeloid_cells; Proliferating_cells; T_NK_cells; Thyroid_epithelial; Dendritic_cells,Myeloid_cells; Thyroid_epithelial; T_NK_cells,3
+BCL2,T_NK_cells; B_cells; Myeloid_cells; Pericyte_smooth_muscle; Thyroid_epithelial,Dendritic_cells; T_NK_cells; Myeloid_cells; Proliferating_cells; B_cells,T_NK_cells; B_cells; Myeloid_cells,3
+FN1,Thyroid_epithelial; Fibroblasts; Pericyte_smooth_muscle; Myeloid_cells; Endothelial_cells,Thyroid_epithelial; Fibroblasts; Plasma_cells; Mast_cells,Thyroid_epithelial; Fibroblasts,2

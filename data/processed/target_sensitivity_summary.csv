@@ -1,0 +1,8 @@
+Analysis_block,Scenario,Target_or_disease_gene_count,Shared_gene_count,PTC_DEG_candidate_count,PTC_DEG_candidates,Core_genes_retained,Interpretation
+Target-source restriction,Full three-source union,144,75,7,BAX; BCL2; CDKN1A; COL1A1; CXCL8; FN1; TGFB1,Yes,Primary submitted analysis
+Target-source restriction,CTD-curated subset only,80,57,7,BAX; BCL2; CDKN1A; COL1A1; CXCL8; FN1; TGFB1,Yes,Source-restriction sensitivity analysis
+GeneCards threshold,GeneCards top 500 + OMIM,679,39,6,BAX; BCL2; CDKN1A; CXCL8; FN1; TGFB1,Yes,Alternative threshold
+GeneCards threshold,GeneCards top 1000 + OMIM,1162,53,6,BAX; BCL2; CDKN1A; CXCL8; FN1; TGFB1,Yes,Alternative threshold
+GeneCards threshold,GeneCards top 1500 + OMIM,1650,68,7,BAX; BCL2; CDKN1A; COL1A1; CXCL8; FN1; TGFB1,Yes,Alternative threshold
+GeneCards threshold,GeneCards top 2000 + OMIM,2139,75,7,BAX; BCL2; CDKN1A; COL1A1; CXCL8; FN1; TGFB1,Yes,Prespecified primary threshold
+GeneCards threshold,GeneCards top 3000 + OMIM,3120,84,7,BAX; BCL2; CDKN1A; COL1A1; CXCL8; FN1; TGFB1,Yes,Alternative threshold

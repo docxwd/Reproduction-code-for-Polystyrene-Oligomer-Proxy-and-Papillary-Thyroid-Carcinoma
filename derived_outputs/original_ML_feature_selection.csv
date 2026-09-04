@@ -1,0 +1,8 @@
+Gene,Candidate7,LASSO_selected,LASSO_coefficient,SVM_RFE_selected,Core_candidate_gene
+BAX,true,true,1.62787069217592,true,true
+BCL2,true,true,-2.374705857979,true,true
+CDKN1A,true,false,0,false,false
+COL1A1,true,true,0.0436775778320991,false,false
+CXCL8,true,false,0,true,false
+FN1,true,true,0.998112706384974,true,true
+TGFB1,true,false,0,false,false

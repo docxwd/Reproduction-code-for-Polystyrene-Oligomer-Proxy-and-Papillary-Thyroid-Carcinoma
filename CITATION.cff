@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+title: "Supplementary Code for Hypothesis-Generating Network Toxicology Analysis of Potential Molecular Convergence Between a Polystyrene Oligomer Proxy and Papillary Thyroid Carcinoma"
+type: software
+version: 8.0.0
+date-released: 2026-09-05
+license: MIT
+authors:
+  - family-names: Xie
+    given-names: Weidong
+  - family-names: Tang
+    given-names: Jian
+  - family-names: Qian
+    given-names: Xiaoyu
+repository-code: "https://github.com/docxwd/Reproduction-code-for-Polystyrene-Oligomer-Proxy-and-Papillary-Thyroid-Carcinoma"
+preferred-citation:
+  type: article
+  title: "Hypothesis-Generating Network Toxicology Analysis of Potential Molecular Convergence Between a Polystyrene Oligomer Proxy and Papillary Thyroid Carcinoma"
+  authors:
+    - family-names: Xie
+      given-names: Weidong
+    - family-names: Tang
+      given-names: Jian
+    - family-names: Qian
+      given-names: Xiaoyu
+  year: 2026

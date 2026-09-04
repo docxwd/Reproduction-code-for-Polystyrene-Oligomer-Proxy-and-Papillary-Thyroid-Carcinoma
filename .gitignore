@@ -1,0 +1,21 @@
+# Local generated results and external downloads are not release sources.
+/reproduced_outputs/
+/results/
+/external_data/
+/local_data/
+/data/source_files/*
+!/data/source_files/README.md
+**/logs/
+*.log
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.env
+.env.*
+*.zip
+*.tmp
+~$*
+.DS_Store

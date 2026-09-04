@@ -1,0 +1,31 @@
+﻿Chemical Name,Chemical ID,CAS RN,Gene Symbol,Gene ID,Interaction,Interaction Actions,References,Organisms
+Polystyrenes,D011137,,BAX,581,[Polystyrenes results in increased abundance of Microplastics] which results in increased expression of BAX mRNA,increases^abundance|increases^expression,38735450|40619079,Homo sapiens|Mus musculus
+Polystyrenes,D011137,,BAX,581,[Polystyrenes results in increased abundance of Microplastics] which results in increased expression of BAX protein,increases^abundance|increases^expression,38735450|40619079,Homo sapiens|Mus musculus
+Polystyrenes,D011137,,BAX,581,[Environmental Pollutants results in increased abundance of Polystyrenes] which results in increased expression of BAX protein,increases^abundance|increases^expression,36205374,Gallus gallus
+Polystyrenes,D011137,,BAX,581,Acetylcysteine inhibits the reaction [Polystyrenes analog results in increased expression of BAX protein],decreases^reaction|increases^expression,37084995,Homo sapiens
+Polystyrenes,D011137,,BAX,581,"3-(2,4-dichloro-5-methoxyphenyl)-2-sulfanyl-4(3H)-quinazolinone inhibits the reaction [Polystyrenes analog results in increased expression of BAX protein]",decreases^reaction|increases^expression,37084995,Homo sapiens
+Polystyrenes,D011137,,BAX,581,DNM1L protein promotes the reaction [Polystyrenes analog results in increased expression of BAX protein],increases^expression|increases^reaction,37084995,Homo sapiens
+Polystyrenes,D011137,,BAX,581,Polystyrenes analog results in increased expression of BAX protein,increases^expression,37084995,Homo sapiens
+Polystyrenes,D011137,,BAX,581,[Microplastics results in increased abundance of Polystyrenes] which results in increased expression of BAX mRNA,increases^abundance|increases^expression,38799687,Homo sapiens
+Polystyrenes,D011137,,BAX,581,[Polystyrenes results in increased abundance of Particulate Matter] which results in increased expression of BAX protein,increases^abundance|increases^expression,31756791,Homo sapiens
+Polystyrenes,D011137,,BAX,581,Polystyrenes results in increased expression of BAX mRNA,increases^expression,35791677,Sus scrofa
+Polystyrenes,D011137,,BAX,581,[Environmental Pollutants results in increased abundance of Polystyrenes] which results in increased expression of BAX mRNA,increases^abundance|increases^expression,36205374,Gallus gallus
+Polystyrenes,D011137,,BAX,581,Polystyrenes results in increased expression of BAX protein,increases^expression,35791677,Sus scrofa
+Polystyrenes,D011137,,BCL2,596,[Polystyrenes results in increased abundance of Microplastics] which results in decreased expression of BCL2 mRNA,decreases^expression|increases^abundance,34968615|38735450|40619079,Danio rerio|Homo sapiens|Mus musculus
+Polystyrenes,D011137,,BCL2,596,Polystyrenes results in decreased expression of BCL2 protein,decreases^expression,35791677|38064284,Ctenopharyngodon idella|Sus scrofa
+Polystyrenes,D011137,,BCL2,596,[Polystyrenes results in increased abundance of Microplastics] which results in decreased expression of BCL2 protein,decreases^expression|increases^abundance,38735450|40619079,Homo sapiens|Mus musculus
+Polystyrenes,D011137,,BCL2,596,Acetylcysteine inhibits the reaction [Polystyrenes analog results in decreased expression of BCL2 protein],decreases^expression|decreases^reaction,37084995,Homo sapiens
+Polystyrenes,D011137,,BCL2,596,[Microplastics results in increased abundance of Polystyrenes] which affects the expression of BCL2 mRNA,affects^expression|increases^abundance,38799687,Homo sapiens
+Polystyrenes,D011137,,BCL2,596,[Environmental Pollutants results in increased abundance of Polystyrenes] which results in decreased expression of BCL2 protein,decreases^expression|increases^abundance,36205374,Gallus gallus
+Polystyrenes,D011137,,BCL2,596,[Environmental Pollutants results in increased abundance of Polystyrenes] which results in increased expression of BCL2 mRNA,increases^abundance|increases^expression,36205374,Gallus gallus
+Polystyrenes,D011137,,BCL2,596,Polystyrenes results in decreased expression of BCL2 mRNA,decreases^expression,35791677,Sus scrofa
+Polystyrenes,D011137,,BCL2,596,Acetylcysteine inhibits the reaction [Polystyrenes results in decreased expression of BCL2 protein],decreases^expression|decreases^reaction,38064284,Ctenopharyngodon idella
+Polystyrenes,D011137,,BCL2,596,DNM1L protein promotes the reaction [Polystyrenes analog results in decreased expression of BCL2 protein],decreases^expression|increases^reaction,37084995,Homo sapiens
+Polystyrenes,D011137,,BCL2,596,[[Polystyrenes results in increased abundance of Microplastics] co-treated with [Cadmium Chloride results in increased abundance of Cadmium]] results in decreased expression of BCL2 mRNA,affects^cotreatment|decreases^expression|increases^abundance,34968615,Danio rerio
+Polystyrenes,D011137,,BCL2,596,"3-(2,4-dichloro-5-methoxyphenyl)-2-sulfanyl-4(3H)-quinazolinone inhibits the reaction [Polystyrenes analog results in decreased expression of BCL2 protein]",decreases^expression|decreases^reaction,37084995,Homo sapiens
+Polystyrenes,D011137,,BCL2,596,Polystyrenes analog results in decreased expression of BCL2 protein,decreases^expression,37084995,Homo sapiens
+Polystyrenes,D011137,,BCL2,596,[Microplastics results in increased abundance of Polystyrenes] which results in increased expression of BCL2 protein,increases^abundance|increases^expression,38799687,Homo sapiens
+Polystyrenes,D011137,,FN1,2335,[Polystyrenes results in increased abundance of Microplastics] which results in increased expression of FN1 protein,increases^abundance|increases^expression,39532264,Homo sapiens
+Polystyrenes,D011137,,FN1,2335,[Microplastics results in increased abundance of Polystyrenes] which results in increased expression of FN1 mRNA,increases^abundance|increases^expression,39053876,Mus musculus
+Polystyrenes,D011137,,FN1,2335,ferrostatin-1 inhibits the reaction [[Polystyrenes results in increased abundance of Microplastics] which results in increased expression of FN1 protein],decreases^reaction|increases^abundance|increases^expression,39532264,Homo sapiens
+Polystyrenes,D011137,,FN1,2335,[Microplastics results in increased abundance of Polystyrenes analog] which results in increased expression of FN1 mRNA,increases^abundance|increases^expression,39053876,Mus musculus

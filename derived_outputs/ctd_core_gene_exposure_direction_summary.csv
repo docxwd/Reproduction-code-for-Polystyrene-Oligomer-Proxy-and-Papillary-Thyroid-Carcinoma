@@ -1,0 +1,4 @@
+﻿Gene,PTC_direction,CTD_record_count,Distinct_PMID_count,PMIDs,Records_with_increased_expression,Records_with_decreased_expression,Records_with_other_or_ambiguous_action,Organisms,Direction_summary
+BAX,increased,12,7,31756791; 35791677; 36205374; 37084995; 38735450; 38799687; 40619079,12,0,0,Gallus gallus; Homo sapiens; Mus musculus; Sus scrofa,predominantly concordant
+BCL2,decreased,14,8,34968615; 35791677; 36205374; 37084995; 38064284; 38735450; 38799687; 40619079,2,11,1,Ctenopharyngodon idella; Danio rerio; Gallus gallus; Homo sapiens; Mus musculus; Sus scrofa,predominantly concordant
+FN1,increased,4,2,39053876; 39532264,4,0,0,Homo sapiens; Mus musculus,predominantly concordant

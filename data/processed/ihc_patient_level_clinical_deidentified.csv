@@ -1,0 +1,16 @@
+Pair_ID,Age_years,Sex,BMI_kg_m2,Postoperative_histopathology,pT,pN,M_category,AJCC8_stage_group_derived,Hashimoto_thyroiditis,Capsular_invasion,Vascular_invasion,Perineural_invasion,BRAF_positive_record
+Pair_01,27,Female,30.1,Papillary thyroid carcinoma,pT1a,pN1a,M0,Stage I,No,No,No,No,Yes
+Pair_02,53,Male,22.8,Papillary thyroid carcinoma,pT1a,pN0,M0,Stage I,No,Yes,No,No,Yes
+Pair_03,62,Female,22.9,Papillary thyroid carcinoma,pT1b,pN1a,M0,Stage II,No,Yes,No,No,Yes
+Pair_04,49,Female,22.9,Papillary thyroid carcinoma,pT1a,pN1a,M0,Stage I,No,Yes,Yes,No,Yes
+Pair_05,53,Female,22.4,Papillary thyroid carcinoma,pT1b,pN1a,M0,Stage I,Yes,Yes,No,No,Yes
+Pair_06,62,Male,22.5,Papillary thyroid carcinoma,pT1a,pN0,M0,Stage I,No,Yes,No,No,Yes
+Pair_07,42,Male,25,Papillary thyroid carcinoma,pT1b,pN1b,M0,Stage I,No,Yes,No,No,Yes
+Pair_08,51,Female,29.8,Papillary thyroid carcinoma,pT1a,pN0,M0,Stage I,No,Yes,No,No,No
+Pair_09,31,Female,32.8,Papillary thyroid carcinoma,pT1b,pN1b,M0,Stage I,Yes,Yes,No,No,Yes
+Pair_10,37,Female,29.1,Papillary thyroid carcinoma,pT2,pN1a,M0,Stage I,No,No,No,No,Yes
+Pair_11,49,Male,25.1,Papillary thyroid carcinoma,pT1a,pN0,M0,Stage I,No,Yes,No,No,Yes
+Pair_12,70,Male,20.9,Papillary thyroid carcinoma,pT1a,pN0,M0,Stage I,No,No,No,No,No
+Pair_13,60,Female,24.6,Papillary thyroid carcinoma,pT1a,pN0,M0,Stage I,No,Yes,No,No,Yes
+Pair_14,47,Male,20.5,Papillary thyroid carcinoma,pT1a,pN1a,M0,Stage I,No,No,No,No,Yes
+Pair_15,42,Female,24.9,Papillary thyroid carcinoma,pT1b,pN1a,M0,Stage I,Yes,No,No,No,Yes
