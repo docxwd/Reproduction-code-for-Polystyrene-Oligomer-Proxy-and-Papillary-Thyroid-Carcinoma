@@ -75,4 +75,4 @@ Rscript tests/test_ihc_statistics.R
 
 The run checks numerical outputs automatically. `--skip-s13` can omit resampling for a shorter run; the verification report explicitly states that S13 was not checked.
 
-Clinical files contain deidentified pair labels only. Do not distribute linkage keys, raw downloads or execution logs. The MIT license applies to author-owned code; third-party materials retain their source terms. Insert the repository address into `CITATION.cff` before publication.
+Clinical files contain deidentified pair labels only. Do not distribute linkage keys, raw downloads or execution logs. The MIT license applies to author-owned code; third-party materials retain their source terms. Repository metadata are recorded in `CITATION.cff`.
